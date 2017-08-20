@@ -1,0 +1,310 @@
+<countries>
+<country name="Afghanistan" population="22664136" area="647500">
+<language percentage="11">Turkic</language>
+<language percentage="35">Pashtu</language>
+<language percentage="50">Afghan Persian</language>
+</country>
+<country name="Albania" population="3249136" area="28750"/>
+<country name="Algeria" population="29183032" area="2381740">
+<city>
+<name>Algiers</name>
+<population>1507241</population>
+</city>
+</country>
+<country name="American Samoa" population="59566" area="199"/>
+<country name="Andorra" population="72766" area="450"/>
+<country name="Angola" population="10342899" area="1246700"/>
+<country name="Anguilla" population="10424" area="91">
+<language percentage="100">English</language>
+</country>
+<country name="Antigua and Barbuda" population="65647" area="440">
+<language percentage="100">English</language>
+</country>
+<country name="Argentina" population="34672996" area="2766890">
+<city>
+<name>La Matanza</name>
+<population>1111811</population>
+</city>
+<city>
+<name>Cordoba</name>
+<population>1208713</population>
+</city>
+<city>
+<name>Rosario</name>
+<population>1118984</population>
+</city>
+<city>
+<name>Buenos Aires</name>
+<population>2988006</population>
+</city>
+</country>
+<country name="Armenia" population="3463574" area="29800">
+<city>
+<name>Yerevan</name>
+<population>1200000</population>
+</city>
+<language percentage="2">Russian</language>
+<language percentage="96">Armenian</language>
+</country>
+<country name="Aruba" population="67794" area="193"/>
+<country name="Australia" population="18260864" area="7686850">
+<city>
+<name>Sydney</name>
+<population>3657000</population>
+</city>
+<city>
+<name>Brisbane</name>
+<population>1302000</population>
+</city>
+<city>
+<name>Adelaide</name>
+<population>1050000</population>
+</city>
+<city>
+<name>Melbourne</name>
+<population>3081000</population>
+</city>
+<city>
+<name>Perth</name>
+<population>1193000</population>
+</city>
+<language percentage="100">English</language>
+</country>
+<country name="Austria" population="8023244" area="83850">
+<city>
+<name>Vienna</name>
+<population>1583000</population>
+</city>
+<language percentage="100">German</language>
+</country>
+<country name="Azerbaijan" population="7676953" area="86600">
+<city>
+<name>Baku</name>
+<population>1740000</population>
+</city>
+<language percentage="3">Russian</language>
+<language percentage="2">Armenian</language>
+<language percentage="89">Azeri</language>
+</country>
+<country name="Bahamas" population="259367" area="13940"/>
+<country name="Bahrain" population="590042" area="620"/>
+<country name="Bangladesh" population="123062800" area="144000">
+<city>
+<name>Dhaka</name>
+<population>3839000</population>
+</city>
+<city>
+<name>Chittagong</name>
+<population>1599000</population>
+</city>
+</country>
+<country name="Barbados" population="257030" area="430">
+<language percentage="100">English</language>
+</country>
+<country name="Belarus" population="10415973" area="207600">
+<city>
+<name>Minsk</name>
+<population>1540000</population>
+</city>
+</country>
+<country name="Belgium" population="10170241" area="30510">
+<language percentage="32">French</language>
+<language percentage="1">German</language>
+<language percentage="56">Dutch</language>
+</country>
+<country name="Belize" population="219296" area="22960"/>
+<country name="Benin" population="5709529" area="112620"/>
+<country name="Bermuda" population="62099" area="50">
+<language percentage="100">English</language>
+</country>
+<country name="Bhutan" population="1822625" area="47000"/>
+<country name="Bolivia" population="7165257" area="1098580"/>
+<country name="Bosnia and Herzegovina" population="2656240" area="51233">
+<language percentage="99">Serbo-Croatian</language>
+</country>
+<country name="Botswana" population="1477630" area="600370"/>
+<country name="Brazil" population="162661216" area="8511965">
+<city>
+<name>Manaus</name>
+<population>1158265</population>
+</city>
+<city>
+<name>Salvador</name>
+<population>2209465</population>
+</city>
+<city>
+<name>Fortaleza</name>
+<population>1967365</population>
+</city>
+<city>
+<name>Belo Horizonte</name>
+<population>2091770</population>
+</city>
+<city>
+<name>Belem</name>
+<population>1142258</population>
+</city>
+<city>
+<name>Curitiba</name>
+<population>1465698</population>
+</city>
+<city>
+<name>Recife</name>
+<population>1342877</population>
+</city>
+<city>
+<name>Rio de Janeiro</name>
+<population>5533011</population>
+</city>
+<city>
+<name>Porto Alegre</name>
+<population>1286251</population>
+</city>
+<city>
+<name>Sao Paulo</name>
+<population>9811776</population>
+</city>
+<city>
+<name>Brasilia</name>
+<population>1817001</population>
+</city>
+</country>
+<country name="British Virgin Islands" population="13195" area="150">
+<language percentage="100">English</language>
+</country>
+<country name="Brunei" population="299939" area="5770"/>
+<country name="Bulgaria" population="8612757" area="110910">
+<city>
+<name>Sofia</name>
+<population>1300000</population>
+</city>
+<language percentage="100">Bulgarian</language>
+</country>
+<country name="Burkina Faso" population="10623323" area="274200"/>
+<country name="Burma" population="45975624" area="678500">
+<city>
+<name>Rangoon</name>
+<population>2513000</population>
+</city>
+<language percentage="100">Burmese</language>
+</country>
+<country name="Burundi" population="5943057" area="27830"/>
+<country name="Cambodia" population="10861218" area="181040"/>
+<country name="Cameroon" population="14261557" area="475440"/>
+<country name="Canada" population="28820672" area="9976140">
+<city>
+<name>Montreal</name>
+<population>1017666</population>
+</city>
+</country>
+<country name="Cape Verde" population="449066" area="4030"/>
+<country name="Cayman Islands" population="34646" area="260">
+<language percentage="100">English</language>
+</country>
+<country name="Central African Republic" population="3274426" area="622980"/>
+<country name="Chad" population="6976845" area="1284000"/>
+<country name="Chile" population="14333258" area="756950">
+<city>
+<name>Santiago</name>
+<population>4318000</population>
+</city>
+<language percentage="100">Spanish</language>
+</country>
+<country name="China" population="1210004992" area="9596960">
+<city>
+<name>Hong Kong</name>
+<population>6218000</population>
+</city>
+<city>
+<name>Hefei</name>
+<population>1000000</population>
+</city>
+<city>
+<name>Huainan</name>
+<population>1200000</population>
+</city>
+<city>
+<name>Lanzhou</name>
+<population>1510000</population>
+</city>
+<city>
+<name>Guangzhou</name>
+<population>3580000</population>
+</city>
+<city>
+<name>Guiyang</name>
+<population>1530000</population>
+</city>
+<city>
+<name>Shijiazhuang</name>
+<population>1320000</population>
+</city>
+<city>
+<name>Tangshan</name>
+<population>1500000</population>
+</city>
+<city>
+<name>Handan</name>
+<population>1110000</population>
+</city>
+<city>
+<name>Harbin</name>
+<population>2830000</population>
+</city>
+<city>
+<name>Qiqihar</name>
+<population>1380000</population>
+</city>
+<city>
+<name>Zhengzhou</name>
+<population>1710000</population>
+</city>
+<city>
+<name>Luoyang</name>
+<population>1190000</population>
+</city>
+<city>
+<name>Wuhan</name>
+<population>3750000</population>
+</city>
+<city>
+<name>Changsha</name>
+<population>1330000</population>
+</city>
+<city>
+<name>Nanjing</name>
+<population>2500000</population>
+</city>
+<city>
+<name>Fuzhou</name>
+<population>1290000</population>
+</city>
+<city>
+<name>Nanchang</name>
+<population>1350000</population>
+</city>
+<city>
+<name>Jilin</name>
+<population>1270000</population>
+</city>
+<city>
+<name>Changchun</name>
+<population>2110000</population>
+</city>
+<city>
+<name>Shenyang</name>
+<population>4540000</population>
+</city>
+<city>
+<name>Dalian</name>
+<population>2400000</population>
+</city>
+<city>
+<name>Anshan</name>
+<population>1390000</population>
+</city>
+<city>
+<name>Fushun</name>
+<population>1350000</population>
+</city>
+<city>
